@@ -417,6 +417,10 @@ namespace Practico_2_Martin_Moreira_y_Bruno_Tapia
                         Console.WriteLine("Selecione una opcion");
                         Console.WriteLine("********* *** ******");
                         opciones3 = int.Parse(Console.ReadLine());
+                        opciones3 = int.Parse(Console.ReadLine());
+                        opciones3 = int.Parse(Console.ReadLine());
+                        opciones3 = int.Parse(Console.ReadLine());
+                        opciones3 = int.Parse(Console.ReadLine());
                         switch (opciones3)
                         {
                             case 1:

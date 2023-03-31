@@ -21,3 +21,11 @@ G:\Programacion2\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Morei
 G:\Programacion2\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.csproj.CoreCompileInputs.cache
 G:\Programacion2\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.exe
 G:\Programacion2\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.pdb
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\bin\Debug\Practico_2 Martin Moreira y Bruno Tapia.exe.config
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\bin\Debug\Practico_2 Martin Moreira y Bruno Tapia.exe
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\bin\Debug\Practico_2 Martin Moreira y Bruno Tapia.pdb
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.csproj.AssemblyReference.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.csproj.SuggestedBindingRedirects.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.csproj.CoreCompileInputs.cache
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.exe
+C:\Users\morei\OneDrive\Escritorio\Programacion iii\Practico_2 Martin Moreira y Bruno Tapia\Practico_2 Martin Moreira y Bruno Tapia\obj\Debug\Practico_2 Martin Moreira y Bruno Tapia.pdb
